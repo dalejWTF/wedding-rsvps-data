@@ -4,3 +4,4 @@
 | fam-salinas-marquez | 2025-10-15 19:36:15 | Familia Salinas Márquez | 3 | Sí |
 | fam-villamagua-torres | 2025-10-15 19:36:35 | Familia Villamagua Torres | 5 | Sí |
 | fam-marquez-carrion | 2025-10-15 20:15:37 | Familia Márquez Carrión | 2 | Sí |
+| fam-blacio-carrion | 2025-10-17 13:49:38 | Familia Blacio Carrión | 2 | Sí |
