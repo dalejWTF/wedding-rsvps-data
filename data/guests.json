@@ -1,0 +1,139 @@
+{
+  "families": [
+    {
+      "id": "fam-ulloa-marquez",
+      "nombreFamilia": "Familia Ulloa Márquez",
+      "nroPersonas": 2
+    },
+    {
+      "id": "fam-proano-ulloa",
+      "nombreFamilia": "Familia Proaño Ulloa",
+      "nroPersonas": 2
+    },
+    {
+      "id": "fam-salinas-marquez",
+      "nombreFamilia": "Familia Salinas Márquez",
+      "nroPersonas": 3
+    },
+    {
+      "id": "fam-marquez-carrion",
+      "nombreFamilia": "Familia Márquez Carrión",
+      "nroPersonas": 2
+    },
+    {
+      "id": "fam-blacio-carrion",
+      "nombreFamilia": "Familia Blacio Carrión",
+      "nroPersonas": 2
+    },
+    {
+      "id": "fam-juarez-lopez",
+      "nombreFamilia": "Familia Juárez López",
+      "nroPersonas": 5
+    },
+    {
+      "id": "fam-marquez-espinoza",
+      "nombreFamilia": "Familia Marquez Espinoza",
+      "nroPersonas": 2
+    },
+    {
+      "id": "fam-castellano-marquez",
+      "nombreFamilia": "Familia Castellano Márquez",
+      "nroPersonas": 2
+    },
+    {
+      "id": "fam-lopez-carrion",
+      "nombreFamilia": "Familia López Carrión",
+      "nroPersonas": 2
+    },
+    {
+      "id": "fam-viviana-abad",
+      "nombreFamilia": "Sra. Viviana Abad e hijos",
+      "nroPersonas": 3
+    },
+    {
+      "id": "fam-villamagua-torres",
+      "nombreFamilia": "Familia Villamagua Torres",
+      "nroPersonas": 5
+    },
+    {
+      "id": "fam-lopez-ordonez",
+      "nombreFamilia": "Familia López Ordoñez",
+      "nroPersonas": 2
+    },
+    {
+      "id": "fam-toabanda-lopez",
+      "nombreFamilia": "Familia Toabanda López",
+      "nroPersonas": 4
+    },
+    {
+      "id": "fam-loaiza-lopez",
+      "nombreFamilia": "Familia Loaiza López",
+      "nroPersonas": 4
+    },
+    {
+      "id": "fam-lopez-jara",
+      "nombreFamilia": "Familia López Jara",
+      "nroPersonas": 2
+    },
+    {
+      "id": "fam-chuchuca-pardo",
+      "nombreFamilia": "Familia Chuchuca Pardo",
+      "nroPersonas": 3
+    },
+    {
+      "id": "fam-chuchuca-zaruma",
+      "nombreFamilia": "Familia Chuchuca Zaruma",
+      "nroPersonas": 2
+    },
+    {
+      "id": "fam-arias-sanchez",
+      "nombreFamilia": "Familia Arias Sánchez",
+      "nroPersonas": 2
+    },
+    {
+      "id": "arq-bryan-criollo",
+      "nombreFamilia": "Arq. Bryan Criollo",
+      "nroPersonas": 1
+    },
+    {
+      "id": "ing-alexis-armijos",
+      "nombreFamilia": "Ing. Alexis Armijos",
+      "nroPersonas": 1
+    },
+    {
+      "id": "ing-marco-caicedo",
+      "nombreFamilia": "Ing. Marco Caicedo",
+      "nroPersonas": 1
+    },
+    {
+      "id": "sr-alexander-orozco",
+      "nombreFamilia": "Sr. Alexander Orozco",
+      "nroPersonas": 1
+    },
+    {
+      "id": "sra-imelda-lopez",
+      "nombreFamilia": "Sra. Imelda López",
+      "nroPersonas": 1
+    },
+    {
+      "id": "sr-nestor-torres",
+      "nombreFamilia": "Sr. Néstor Torres",
+      "nroPersonas": 1
+    },
+    {
+      "id": "sra-germania-marquez",
+      "nombreFamilia": "Sra. Germania Márquez",
+      "nroPersonas": 1
+    },
+    {
+      "id": "sra-jenny-marquez",
+      "nombreFamilia": "Sra. Jenny Márquez",
+      "nroPersonas": 1
+    },
+    {
+      "id": "srta-yossy-salinas",
+      "nombreFamilia": "Srta. Yosselyn Salinas",
+      "nroPersonas": 1
+    }
+  ]
+}
