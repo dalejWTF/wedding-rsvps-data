@@ -2,3 +2,4 @@
 |---|---|---|---|---|
 | dr-carlos-ulloa | 2025-11-06 17:45:31 | Familia Ulloa Márquez | 2 | Sí |
 | fam-villamagua-torres | 2025-11-07 02:42:01 | Familia Villamagua Torres | 5 | Sí |
+| med-maria-reyes | 2025-11-08 01:27:55 | Med. María Reyes y pareja | 2 | Sí |
