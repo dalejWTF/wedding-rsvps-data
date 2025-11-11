@@ -4,3 +4,4 @@
 | fam-villamagua-torres | 2025-11-07 02:42:01 | Familia Villamagua Torres | 5 | Sí |
 | med-maria-reyes | 2025-11-08 01:27:55 | Med. María Reyes y pareja | 2 | Sí |
 | ing-richard-salinas | 2025-11-11 01:24:18 | Ing. Richard Salinas y esposa | 3 | Sí |
+| ing-manuel-villamagua | 2025-11-11 02:03:19 | Ing. Manuel Villamagua y familia | 5 | No |
