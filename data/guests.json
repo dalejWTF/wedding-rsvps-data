@@ -56,7 +56,7 @@
 		},
 		{
 			"id": "sra-sandra-lopez",
-			"nombreFamilia": "Sra. Sandra López",
+			"nombreFamilia": "Sra. Sandra López e hijos",
 			"invitados": {
 				"adult": 2,
 				"kids": 2,
@@ -83,7 +83,7 @@
 		},
 		{
 			"id": "sr-silvio-marquez",
-			"nombreFamilia": "sr. Silvio Márquez y esposa",
+			"nombreFamilia": "Sr. Silvio Márquez y esposa",
 			"invitados": {
 				"adult": 2,
 				"kids": 0,
@@ -109,8 +109,8 @@
 			}
 		},
 		{
-			"id": "fam-viviana-abad",
-			"nombreFamilia": "Sra. Viviana Abad e hijos",
+			"id": "dra-viviana-abad",
+			"nombreFamilia": "Dra. Viviana Abad e hijos",
 			"invitados": {
 				"adult": 2,
 				"kids": 1,
@@ -227,7 +227,7 @@
 		},
 		{
 			"id": "lic-edder-roman",
-			"nombreFamilia": "Lic. Edder Roman",
+			"nombreFamilia": "Lic. Edder Román",
 			"invitados": {
 				"adult": 1,
 				"kids": 0,
@@ -236,7 +236,7 @@
 		},
 		{
 			"id": "plt-jefferson-marquez",
-			"nombreFamilia": "Plt. Jefferson Marquez",
+			"nombreFamilia": "Plt. Jefferson Márquez",
 			"invitados": {
 				"adult": 1,
 				"kids": 0,
@@ -280,7 +280,7 @@
 			}
 		},
 		{
-			"id": "Lic-germania-marquez",
+			"id": "lic-germania-marquez",
 			"nombreFamilia": "Lic. Germania Márquez",
 			"invitados": {
 				"adult": 1,
@@ -301,9 +301,9 @@
 			"id": "dra-yossy-salinas",
 			"nombreFamilia": "Dra. Yosselyn Salinas",
 			"invitados": {
-				"adult": 1,
+				"adult": 2,
 				"kids": 0,
-				"total": 1
+				"total": 2
 			}
 		},
 		{
@@ -398,7 +398,7 @@
 		},
 		{
 			"id": "sra-mayra-armijos",
-			"nombreFamilia": "Sra. Mayra Armmijos e hijos",
+			"nombreFamilia": "Sra. Mayra Armijos e hijos",
 			"invitados": {
 				"adult": 3,
 				"kids": 0,
@@ -407,7 +407,7 @@
 		},
 		{
 			"id": "sra-jessica-armijos",
-			"nombreFamilia": "Sra. Jessica Armmijos e hijas",
+			"nombreFamilia": "Sra. Jessica Armijos e hijas",
 			"invitados": {
 				"adult": 3,
 				"kids": 0,
@@ -416,7 +416,7 @@
 		},
 		{
 			"id": "sr-carlos-armijos",
-			"nombreFamilia": "Sr. Carlos Armmijos y esposa",
+			"nombreFamilia": "Sr. Carlos Armijos y esposa",
 			"invitados": {
 				"adult": 2,
 				"kids": 0,
@@ -484,6 +484,24 @@
 				"adult": 2,
 				"kids": 0,
 				"total": 2
+			}
+		},
+		{
+			"id": "ing-fausto-lopez",
+			"nombreFamilia": "Ing. Fausto López",
+			"invitados": {
+				"adult": 2,
+				"kids": 0,
+				"total": 2
+			}
+		},
+		{
+			"id": "srta-stefany-lopez",
+			"nombreFamilia": "Srta. Stefany López",
+			"invitados": {
+				"adult": 1,
+				"kids": 0,
+				"total": 1
 			}
 		}
 	]
