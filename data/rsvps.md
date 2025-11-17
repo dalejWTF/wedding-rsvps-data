@@ -6,3 +6,4 @@
 | dr-carlos-ulloa | 2025-11-16 22:58:12 | Dr. Carlos Ulloa y esposa | 2 | 0 | 2 | Sí |
 | sr-alexander-orozco | 2025-11-17 09:43:05 | Sr. Alexander Orozco | 1 | 0 | 1 | Sí |
 | ing-christian-jimbo | 2025-11-17 12:40:48 | Ing. Christian Jimbo | 1 | 0 | 1 | Sí |
+| med-linder-pereira | 2025-11-17 12:49:31 | Med. Linder Pereira y esposa | 2 | 0 | 2 | Sí |
