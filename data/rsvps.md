@@ -11,3 +11,4 @@
 | arq-bryan-criollo | 2025-11-17 16:46:34 | Arq. Bryan Criollo | 1 | 0 | 1 | No |
 | ing-marco-caicedo | 2025-11-17 20:03:25 | Ing. Marco Caicedo | 1 | 0 | 1 | Sí |
 | sr-reinaldo-flores | 2025-11-18 09:46:12 | Sr. Reinaldo Flores y esposa | 2 | 0 | 2 | Sí |
+| lic-germania-marquez | 2025-11-18 09:48:03 | Lic. Germania Márquez | 1 | 0 | 1 | Sí |
