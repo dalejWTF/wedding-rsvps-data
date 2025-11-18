@@ -13,3 +13,4 @@
 | sr-reinaldo-flores | 2025-11-18 09:46:12 | Sr. Reinaldo Flores y esposa | 2 | 0 | 2 | Sí |
 | lic-germania-marquez | 2025-11-18 09:51:06 | Lic. Germania Márquez | 1 | 0 | 1 | No |
 | abg-jorge-marquez | 2025-11-18 09:51:28 | Abg. Jorge Márquez y esposa | 2 | 0 | 2 | Sí |
+| med-belen-vacacela | 2025-11-18 11:52:10 | Med. Belén Vacacela | 2 | 0 | 2 | Sí |
