@@ -14,3 +14,4 @@
 | lic-germania-marquez | 2025-11-18 09:51:06 | Lic. Germania Márquez | 1 | 0 | 1 | No | 0 |
 | abg-jorge-marquez | 2025-11-18 09:51:28 | Abg. Jorge Márquez y esposa | 2 | 0 | 2 | Sí | 0 |
 | med-belen-vacacela | 2025-11-18 11:52:10 | Med. Belén Vacacela | 2 | 0 | 2 | Sí | 0 |
+| abg-edgar-marquez | 2025-11-18 16:56:20 | Abg. Edgar Márquez y esposa | 2 | 0 | 2 | Sí | 0998666639 |
