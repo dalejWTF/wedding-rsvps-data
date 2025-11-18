@@ -9,3 +9,4 @@
 | med-linder-pereira | 2025-11-17 12:49:31 | Med. Linder Pereira y esposa | 2 | 0 | 2 | Sí |
 | ing-genesis-gonzalez | 2025-11-17 13:02:30 | Ing. Génesis González | 1 | 0 | 1 | Sí |
 | arq-bryan-criollo | 2025-11-17 16:46:34 | Arq. Bryan Criollo | 1 | 0 | 1 | No |
+| ing-marco-caicedo | 2025-11-17 20:03:25 | Ing. Marco Caicedo | 1 | 0 | 1 | Sí |
