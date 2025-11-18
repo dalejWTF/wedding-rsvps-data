@@ -12,3 +12,4 @@
 | ing-marco-caicedo | 2025-11-17 20:03:25 | Ing. Marco Caicedo | 1 | 0 | 1 | Sí |
 | sr-reinaldo-flores | 2025-11-18 09:46:12 | Sr. Reinaldo Flores y esposa | 2 | 0 | 2 | Sí |
 | lic-germania-marquez | 2025-11-18 09:51:06 | Lic. Germania Márquez | 1 | 0 | 1 | No |
+| abg-jorge-marquez | 2025-11-18 09:51:28 | Abg. Jorge Márquez y esposa | 2 | 0 | 2 | Sí |
