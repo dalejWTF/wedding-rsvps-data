@@ -14,4 +14,3 @@
 | lic-germania-marquez | 2025-11-18 09:51:06 | Lic. Germania Márquez | 1 | 0 | 1 | No | 0981152974 |
 | abg-jorge-marquez | 2025-11-18 09:51:28 | Abg. Jorge Márquez y esposa | 2 | 0 | 2 | Sí | 0989523268 |
 | med-belen-vacacela | 2025-11-18 11:52:10 | Med. Belén Vacacela | 2 | 0 | 2 | Sí | 0981753908 |
-| abg-edgar-marquez | 2025-11-18 17:46:47 | Abg. Edgar Márquez y esposa | 2 | 0 | 2 | Sí | 0998666639 |
