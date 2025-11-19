@@ -15,3 +15,4 @@
 | abg-jorge-marquez | 2025-11-18 09:51:28 | Abg. Jorge Márquez y esposa | 2 | 0 | 2 | Sí | 0989523268 |
 | med-belen-vacacela | 2025-11-18 11:52:10 | Med. Belén Vacacela | 2 | 0 | 2 | Sí | 0981753908 |
 | med-rebeca-arevalo | 2025-11-18 19:55:52 | Med. Rebeca Arévalo | 2 | 0 | 2 | Sí |
+| ing-manuel-villamagua | 2025-11-18 23:23:23 | Ing. Manuel Villamagua y familia | 3 | 2 | 5 | Sí |
