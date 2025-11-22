@@ -17,3 +17,4 @@
 | med-rebeca-arevalo | 2025-11-18 19:55:52 | Med. Rebeca Arévalo | 2 | 0 | 2 | Sí |
 | ing-manuel-villamagua | 2025-11-18 23:23:23 | Ing. Manuel Villamagua y familia | 3 | 2 | 5 | Sí |
 | sr-enrique-lopez | 2025-11-19 08:57:25 | Sr. Enrique López y esposa | 2 | 0 | 2 | Sí |
+| ing-marcelo-proano | 2025-11-22 09:44:11 | Ing. Marcelo Proaño y esposa | 2 | 0 | 2 | Sí | 0992675092 |
