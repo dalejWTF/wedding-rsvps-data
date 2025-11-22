@@ -18,3 +18,4 @@
 | ing-manuel-villamagua | 2025-11-18 23:23:23 | Ing. Manuel Villamagua y familia | 3 | 2 | 5 | Sí |
 | sr-enrique-lopez | 2025-11-19 08:57:25 | Sr. Enrique López y esposa | 2 | 0 | 2 | Sí |
 | ing-marcelo-proano | 2025-11-22 09:44:11 | Ing. Marcelo Proaño y esposa | 2 | 0 | 2 | Sí | 0992675092 |
+| dr-carlos-chuchuca | 2025-11-22 14:51:34 | Dr. Carlos Chuchuca y familia | 3 | 0 | 3 | Sí | 0994826574 |
