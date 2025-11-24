@@ -20,3 +20,4 @@
 | ing-marcelo-proano | 2025-11-22 09:44:11 | Ing. Marcelo Proaño y esposa | 2 | 0 | 2 | Sí | 0992675092 |
 | dr-carlos-chuchuca | 2025-11-22 14:51:34 | Dr. Carlos Chuchuca y familia | 3 | 0 | 3 | Sí | 0994826574 |
 | lic-imelda-lopez | 2025-11-22 18:31:41 | Lic. Imelda López | 1 | 0 | 1 | Sí | 0983940887 |
+| sra-sandra-lopez | 2025-11-23 21:23:44 | Sra. Sandra López e hijos | 2 | 2 | 4 | Sí | 0988966844 |
