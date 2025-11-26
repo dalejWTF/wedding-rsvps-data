@@ -22,3 +22,4 @@
 | lic-imelda-lopez | 2025-11-22 18:31:41 | Lic. Imelda López | 1 | 0 | 1 | Sí | 0983940887 |
 | sra-sandra-lopez | 2025-11-23 21:23:44 | Sra. Sandra López e hijos | 2 | 2 | 4 | Sí | 0988966844 |
 | ing-juan-carlos-lopez | 2025-11-24 18:55:03 | Ing. Juan Carlos López y esposa | 2 | 0 | 2 | Sí | 0992621458 |
+| sr-edmundo-castellano | 2025-11-26 13:23:41 | Sr. Edmundo Castellano y esposa | 2 | 0 | 2 | No | 0982062193 |
