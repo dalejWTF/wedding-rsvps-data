@@ -27,3 +27,4 @@
 | ing-pablo-marquez | 2025-11-26 17:22:46 | Ing. Pablo Márquez | 1 | 0 | 1 | No | 0963608456 |
 | med-maria-reyes | 2025-11-30 13:11:44 | Med. María Reyes | 2 | 0 | 2 | Sí | 0981974354 |
 | ing-gabriel-villamagua | 2025-11-30 15:12:22 | Ing. Gabriel Villamagua y esposa | 2 | 0 | 2 | Sí | 0984807253 |
+| arq-carlos-ulloa | 2025-11-30 17:34:05 | Arq. Carlos Ulloa | 2 | 0 | 2 | Sí | 0996127261 |
