@@ -551,14 +551,12 @@
 			}
 		},
 		{
-			"id": "ing-gabriel-villamagua",
-			"nombreFamilia": "Ing. Gabriel Villamagua y esposa",
-			"telefono": "0984807253",
+			"id": "arq-carlos-ulloa",
+			"nombreFamilia": "Arq. Carlos Ulloa",
+			"telefono": "0996127261",
 			"invitados": {
 				"adult": 2,
 				"kids": 0,
 				"total": 2
 			}
 		}
-	]
-}
