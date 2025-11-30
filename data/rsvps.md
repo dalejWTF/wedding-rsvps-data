@@ -26,3 +26,4 @@
 | med-carlos-chuchuca | 2025-11-26 14:30:48 | Med. Carlos Chuchuca y esposa | 2 | 0 | 2 | Sí | 0988125756 |
 | ing-pablo-marquez | 2025-11-26 17:22:46 | Ing. Pablo Márquez | 1 | 0 | 1 | No | 0963608456 |
 | med-maria-reyes | 2025-11-30 13:11:44 | Med. María Reyes | 2 | 0 | 2 | Sí | 0981974354 |
+| ing-gabriel-villamagua | 2025-11-30 15:12:22 | Ing. Gabriel Villamagua y esposa | 2 | 0 | 2 | Sí | 0984807253 |
