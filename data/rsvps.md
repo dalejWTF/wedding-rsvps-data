@@ -30,3 +30,4 @@
 | arq-carlos-ulloa | 2025-11-30 17:34:05 | Arq. Carlos Ulloa | 2 | 0 | 2 | Sí | 0996127261 |
 | ing-alex-arias | 2025-12-02 22:49:55 | Ing. Alex Arias y esposa | 2 | 0 | 2 | Sí | 0960589425 |
 | med-shirley-castillo | 2025-12-05 08:31:20 | Med. Shirley Castillo | 2 | 0 | 2 | Sí | 0989517382 |
+| sr-david-blacio | 2025-12-05 13:34:17 | Sr. David Blacio y esposa | 2 | 0 | 2 | Sí | 0996442225 |
