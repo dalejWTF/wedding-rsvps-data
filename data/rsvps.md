@@ -32,3 +32,4 @@
 | med-shirley-castillo | 2025-12-05 08:31:20 | Med. Shirley Castillo | 2 | 0 | 2 | Sí | 0989517382 |
 | sr-david-blacio | 2025-12-05 13:34:17 | Sr. David Blacio y esposa | 2 | 0 | 2 | Sí | 0996442225 |
 | ing-giovanny-tello | 2025-12-05 14:43:32 | Ing. Giovanny Tello y esposa | 2 | 0 | 2 | Sí | 0987503033 |
+| plt-jefferson-marquez | 2025-12-05 21:22:37 | Plt. Jefferson Márquez | 1 | 0 | 1 | No | +17866145841 |
