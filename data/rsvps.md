@@ -33,3 +33,4 @@
 | sr-david-blacio | 2025-12-05 13:34:17 | Sr. David Blacio y esposa | 2 | 0 | 2 | Sí | 0996442225 |
 | ing-giovanny-tello | 2025-12-05 14:43:32 | Ing. Giovanny Tello y esposa | 2 | 0 | 2 | Sí | 0987503033 |
 | plt-jefferson-marquez | 2025-12-05 21:22:37 | Plt. Jefferson Márquez | 1 | 0 | 1 | No | +17866145841 |
+| abg-edgar-marquez | 2025-12-08 18:55:48 | Abg. Edgar Márquez y esposa | 2 | 0 | 2 | No | 0998666639 |
