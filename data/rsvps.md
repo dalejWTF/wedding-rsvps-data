@@ -24,7 +24,7 @@
 | ing-juan-carlos-lopez | 2025-11-24 18:55:03 | Ing. Juan Carlos López y esposa | 2 | 0 | 2 | Sí | 0992621458 |
 | sr-edmundo-castellano | 2025-11-26 13:23:41 | Sr. Edmundo Castellano y esposa | 2 | 0 | 2 | No | 0982062193 |
 | med-carlos-chuchuca | 2025-11-26 14:30:48 | Med. Carlos Chuchuca y esposa | 2 | 0 | 2 | Sí | 0988125756 |
-| ing-pablo-marquez | 2025-11-26 17:22:46 | Ing. Pablo Márquez | 1 | 0 | 1 | No | 0963608456 |
+| ing-pablo-marquez | 2025-11-26 17:22:46 | Ing. Pablo Márquez | 1 | 0 | 1 | Sí | 0963608456 |
 | med-maria-reyes | 2025-11-30 13:11:44 | Med. María Reyes | 2 | 0 | 2 | Sí | 0981974354 |
 | ing-gabriel-villamagua | 2025-11-30 15:12:22 | Ing. Gabriel Villamagua y esposa | 2 | 0 | 2 | Sí | 0984807253 |
 | arq-carlos-ulloa | 2025-11-30 17:34:05 | Arq. Carlos Ulloa | 2 | 0 | 2 | Sí | 0996127261 |
