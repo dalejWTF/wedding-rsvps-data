@@ -37,3 +37,4 @@
 | abg-eduardo-ortega | 2025-12-09 20:51:17 | Abg. Eduardo Ortega y esposa | 2 | 0 | 2 | Sí | 0992847744 |
 | sr-spencer-garcia | 2025-12-10 12:16:46 | Sr. Spencer García y esposa | 2 | 0 | 2 | Sí | 0993159075 |
 | sr-estalyn-riofrio | 2025-12-10 12:18:23 | Sr. Estalyn Riofrío | 1 | 0 | 1 | No | 0988340981 |
+| ing-ronny-espinosa | 2025-12-10 13:01:15 | Ing. Ronny Espinosa | 1 | 0 | 1 | No | 0989496383 |
