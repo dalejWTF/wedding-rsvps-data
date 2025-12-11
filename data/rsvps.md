@@ -40,3 +40,4 @@
 | ing-ronny-espinosa | 2025-12-10 13:01:15 | Ing. Ronny Espinosa | 1 | 0 | 1 | No | 0989496383 |
 | lic-edder-roman | 2025-12-10 13:19:41 | Lic. Edder Román | 1 | 0 | 1 | Sí | 0992247822 |
 | fon-priscila-cordova | 2025-12-10 19:45:30 | Fon. Priscila Córdova | 2 | 0 | 2 | Sí | 09995831165 |
+| sra-mayra-armijos | 2025-12-11 09:07:07 | Sra. Mayra Armijos e hijos | 3 | 0 | 3 | No | 0992488772 |
