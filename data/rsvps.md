@@ -42,3 +42,4 @@
 | fon-priscila-cordova | 2025-12-10 19:45:30 | Fon. Priscila Córdova | 2 | 0 | 2 | Sí | 09995831165 |
 | sra-mayra-armijos | 2025-12-11 09:07:07 | Sra. Mayra Armijos e hijos | 3 | 0 | 3 | No | 0992488772 |
 | sra-jessica-armijos | 2025-12-11 09:07:22 | Sra. Jessica Armijos e hijas | 3 | 0 | 3 | No | 0991718239 |
+| sr-carlos-armijos | 2025-12-11 09:07:37 | Sr. Carlos Armijos y esposa | 2 | 0 | 2 | No | 0992298554 |
