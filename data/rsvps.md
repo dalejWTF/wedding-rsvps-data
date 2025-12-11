@@ -45,3 +45,4 @@
 | sr-carlos-armijos | 2025-12-11 09:07:37 | Sr. Carlos Armijos y esposa | 2 | 0 | 2 | No | 0992298554 |
 | sra-carmen-mullo | 2025-12-11 09:08:15 | Sra. Carmen Mullo | 1 | 0 | 1 | No | 0967743892 |
 | sra-lila-torres | 2025-12-11 09:14:48 | Sra. Lila Torres | 1 | 0 | 1 | No | 0939205926 |
+| sra-bertha-torres | 2025-12-11 09:15:06 | Sra. Bertha Torres | 1 | 0 | 1 | No | 0980892554 |
