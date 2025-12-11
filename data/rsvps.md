@@ -39,4 +39,4 @@
 | sr-estalyn-riofrio | 2025-12-10 12:18:23 | Sr. Estalyn Riofrío | 1 | 0 | 1 | No | 0988340981 |
 | ing-ronny-espinosa | 2025-12-10 13:01:15 | Ing. Ronny Espinosa | 1 | 0 | 1 | No | 0989496383 |
 | lic-edder-roman | 2025-12-10 13:19:41 | Lic. Edder Román | 1 | 0 | 1 | Sí | 0992247822 |
-| fon-priscila-cordova | 2025-12-10 19:45:30 | Fon. Priscila Córdova | 1 | 0 | 1 | Sí | 09995831165 |
+| fon-priscila-cordova | 2025-12-10 19:45:30 | Fon. Priscila Córdova | 2 | 0 | 2 | Sí | 09995831165 |
