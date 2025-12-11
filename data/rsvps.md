@@ -48,3 +48,4 @@
 | sra-bertha-torres | 2025-12-11 09:15:06 | Sra. Bertha Torres | 1 | 0 | 1 | No | 0980892554 |
 | sr-jimmy-torres | 2025-12-11 09:17:39 | Sr. Jimmy Torres y esposa | 2 | 0 | 2 | No | 0967975532 |
 | dra-viviana-abad | 2025-12-11 09:31:00 | Dra. Viviana Abad e hijos | 2 | 1 | 3 | Sí | 0979407421 |
+| sr-silvio-marquez | 2025-12-11 12:20:41 | Sr. Silvio Márquez y esposa | 2 | 0 | 2 | No | 0984982817 |
