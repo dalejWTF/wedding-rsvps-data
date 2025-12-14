@@ -51,3 +51,4 @@
 | sr-silvio-marquez | 2025-12-11 12:20:41 | Sr. Silvio Márquez y esposa | 2 | 0 | 2 | No | 0984982817 |
 | lic-jenny-marquez | 2025-12-11 12:21:06 | Lic. Jenny Márquez | 1 | 0 | 1 | No | 0979630856 |
 | sr-jhon-juarez | 2025-12-13 06:30:04 | Sr. Jhon Juárez | 1 | 0 | 1 | Sí | 0989247784 |
+| fam-loaiza-lopez | 2025-12-14 13:12:58 | Familia Loaiza López | 2 | 2 | 4 | No | 0982061045 |
