@@ -54,3 +54,4 @@
 | fam-loaiza-lopez | 2025-12-14 13:12:58 | Familia Loaiza López | 2 | 2 | 4 | No | 0982061045 |
 | fam-toabanda-lopez | 2025-12-14 16:10:52 | Familia Toabanda López | 2 | 2 | 4 | No | 0969507156 |
 | abg-ricardo-leon | 2025-12-14 16:21:26 | Abg. Ricardo León y esposa | 2 | 0 | 2 | Sí | 0988018788 |
+| sra-beatriz-loza | 2025-12-14 16:21:48 | Sra. Beatriz Loza | 1 | 0 | 1 | Sí | 0991379574 |
