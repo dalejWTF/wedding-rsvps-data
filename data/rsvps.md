@@ -57,3 +57,4 @@
 | sra-beatriz-loza | 2025-12-14 16:21:48 | Sra. Beatriz Loza | 1 | 0 | 1 | Sí | 0991379574 |
 | med-diego-pacheco | 2025-12-15 13:46:38 | Med. Diego Pacheco | 2 | 0 | 2 | Sí | 0980944946 |
 | sr-efren-lopez | 2025-12-15 20:27:09 | Sr. Efrén López y esposa | 2 | 0 | 2 | No | 0984102450 |
+| sr-nestor-torres | 2025-12-15 20:27:55 | Sr. Néstor Torres | 1 | 0 | 1 | No | 0985437234 |
